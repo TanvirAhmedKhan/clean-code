@@ -123,3 +123,5 @@ C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.csproj.G
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.CreateGigTable.resources
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.OverrideConventionsForGigsAndGenres.resources
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.PopulateGenresTable.resources
+C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.updateDatabaseduetoDateTime.resources
+C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.redoDateTimetoDateAgaintoAvoidproblem.resources
