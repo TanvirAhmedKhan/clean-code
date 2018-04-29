@@ -1,15 +1,14 @@
 ﻿using CleanCode.Models;
-using System;
 using System.Collections.Generic;
 
 namespace CleanCode.ViewModels
 {
     public class GigFormViewModel
     {
-        public String Venue { get; set; }
-        public String Date { get; set; }
-        public String Time { get; set; }
-        public int Genre { get; set; }
+        public string Venue { get; set; }
+        public string Date { get; set; }
+        public string Time { get; set; }
+        public byte Genre { get; set; }
         public IEnumerable<Genre> Genres { get; set; }
     }
 }

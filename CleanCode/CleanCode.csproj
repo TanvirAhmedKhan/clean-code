@@ -220,6 +220,18 @@
     <Compile Include="Migrations\201804281844092_redo DateTime to Date Again to Avoid problem.Designer.cs">
       <DependentUpon>201804281844092_redo DateTime to Date Again to Avoid problem.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201804291633242_changing Date to DateTime.cs" />
+    <Compile Include="Migrations\201804291633242_changing Date to DateTime.Designer.cs">
+      <DependentUpon>201804291633242_changing Date to DateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804291700431_change of Gig model, adding foreign key property to gig.cs" />
+    <Compile Include="Migrations\201804291700431_change of Gig model, adding foreign key property to gig.Designer.cs">
+      <DependentUpon>201804291700431_change of Gig model, adding foreign key property to gig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201804291710186_change of Genre id - int to byte in viewModel.cs" />
+    <Compile Include="Migrations\201804291710186_change of Genre id - int to byte in viewModel.Designer.cs">
+      <DependentUpon>201804291710186_change of Genre id - int to byte in viewModel.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -324,6 +336,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201804281844092_redo DateTime to Date Again to Avoid problem.resx">
       <DependentUpon>201804281844092_redo DateTime to Date Again to Avoid problem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804291633242_changing Date to DateTime.resx">
+      <DependentUpon>201804291633242_changing Date to DateTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804291700431_change of Gig model, adding foreign key property to gig.resx">
+      <DependentUpon>201804291700431_change of Gig model, adding foreign key property to gig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201804291710186_change of Genre id - int to byte in viewModel.resx">
+      <DependentUpon>201804291710186_change of Genre id - int to byte in viewModel.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

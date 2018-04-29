@@ -125,3 +125,6 @@ C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migratio
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.PopulateGenresTable.resources
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.updateDatabaseduetoDateTime.resources
 C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.redoDateTimetoDateAgaintoAvoidproblem.resources
+C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.changingDatetoDateTime.resources
+C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.changeofGigmodeladdingforeignkeypropertytogig.resources
+C:\Users\100864675\source\repos\CleanCode\CleanCode\obj\Debug\CleanCode.Migrations.changeofGenreidinttobyteinviewModel.resources
