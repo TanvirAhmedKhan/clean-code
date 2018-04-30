@@ -12,7 +12,6 @@ namespace CleanCode.Models
 
         public DateTime DateTime { get; set; }
 
-
         [Required]
         [StringLength(255)]
         public String  Venue { get; set; }
